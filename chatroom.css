@@ -1,0 +1,166 @@
+body
+{
+background-image: url("bg.jpg");
+}
+
+.header
+{
+	color: rgb(44, 17, 125);
+    font-family: 'Allura', cursive;
+    background: rgba(76, 204, 255, 0.8);
+    font-size: 60px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+
+
+.header img
+{
+	width: 80px;
+    margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgba(255, 255, 255, 0.8);float: none;border-radius: 15px;
+}
+
+.logo
+{
+    
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    color: white;
+    border-style: hidden;
+    height: 50px;
+    font-size: large;
+    font-family: 'DynaPuff', cursive;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+}
+
+
+#output
+{
+    overflow: auto;
+	padding: 10px; 
+    width:80%;background: 
+    rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+.input_div_message_page
+{ 
+    padding-top: 20px;
+	position: fixed;bottom: 0px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.input_div_message_page #message
+{
+	width: 50%;
+}
+.input_div_message_page button
+{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+	margin-top: 15px;
+	width: 30%; 
+
+}
+.color_white
+{
+	color: white
+}
+
+.message_h4
+{
+	padding-left:5px;
+    color:grey;
+}
+
+#inputs{
+    height:350px;
+    background-image: url("Banner.png");
+}
+
+#banner{
+    height: 100px;
+    width: 900;
+}
+
+a{
+   color: black; 
+}
+
+h2{
+    font-family: 'DynaPuff', cursive;
+}
+
+h4{
+    font-family: 'Phudu', cursive;
+    color: rgb(255, 255, 255);
+}
+
+#textinput{
+    width: 200px;
+}
+#memeimg{
+    height: 300px;
+}
+
+#intro{
+    font-size: 20px;
+}
+
+#back{
+    font-size: 20px; 
+    float: left;
+}
+
+#send{
+    float: right;
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
+
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
